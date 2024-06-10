@@ -15,5 +15,5 @@ manifest:
           - nrfxlib
 
   # Settings applied using the self key will only be applied to the manifest repository
-  self:
-  path: app_eric
+  # self:
+  # path: app_eric
